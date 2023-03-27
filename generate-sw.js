@@ -80,11 +80,17 @@ self.addEventListener("fetch", (e) => {
       if (r) {
         return r;
       }
+      
+      if (e.request.url.indexOf("quran.html") > -1) {
+        const cache = await caches.open(cacheName);
+        const r = await caches.match('/pages/quran.html');    
+        return r
+      }
       const response = await fetch(e.request);
       const cache = await caches.open(cacheName);
       console.log(`[Service Worker] Caching new resource: ${e.request.url}`);
       cache.put(e.request, response.clone());
-
+     
       return response;
     })()
   );
