@@ -3,7 +3,14 @@ if ('serviceWorker' in navigator) {
   navigator.serviceWorker.register('/generate-sw.js').then(console.log('registerd'));
   });
 }
-
+document.addEventListener("DOMContentLoaded", event => {
+  // we can move only if we are not in a browser's tab
+  isBrowser = matchMedia("(display-mode: browser)").matches;
+  if (!isBrowser) {
+     window.moveTo(16, 16);
+     window.resizeTo(500, window.outerHeight);
+  }
+});
 
 const menu = document.querySelector(".menu");
 const menuBg = document.querySelector(".menu-bg");
