@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Al Quran by EmAacademy</title>
+    <link rel="shortcut icon" href="/favicon.svg" type="image/svg+xml">
+    <link rel="manifest" href="manifest.json">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/utilites.css">
+    <link rel="stylesheet" href="css/responsive.css">
+</head>
+
+<body>
+    <div class="container">
+        <header>
+            <nav>
+                <div class="logo"><span>Al Quran</span> </div>
+                <div class="hum-icon" onclick="toggleMenu()"><img src="images/Icons/three-dots.svg" alt="dot-icon">
+                </div>
+            </nav>
+            <div class="menu-bg " onclick="toggleMenu()"></div>
+            <div class="menu ">
+                <ul>
+                    <li><img src="images/Icons/language.svg" alt="language -icon"><span>Languages</span> </li>
+                    <li><img src="images/Icons/des-palette.svg" alt="theme-icon"><span>Change Theme</span> </li>
+                    <li><img src="images/Icons/star.svg" alt="rate-icon"><span>Rate Us</span> </li>
+                    <li><img src="images/Icons/share.svg" alt="share-icon"><span>Share with Friends</span> </li>
+                    <li><img src="images/Icons/safe-alert.svg" alt="safe-icon"> Privacy Policy</li>
+
+                </ul>
+            </div>
+        </header>
+        <main>
+            <div class="date-box">
+                <div class="h-date">
+                    <span id="h-today"></span>
+                </div>
+                <div class="date-info">
+                    <img src="images/Icons/clock.svg" alt="clock icon">
+                    <div class="date-info-text df aic jcsb w100p pt1">
+                        <span>Islamic Date</span>
+                        <img src="images/Icons/next.svg" alt="">
+                    </div>
+                </div>
+            </div>
+            <div class="resume-read ">
+                <div class="resume-item">
+                    <img src="images/Icons/quran.svg" alt="">
+                    <div class="text-resume">
+                        <span class="resume-surah">سُوْرَۃُ الفَاتِحَة</span>
+                        <span class="resume-juzz"> juzz - 1</span>
+
+                    </div>
+                </div>
+                <div class="resume-btn">Resume Reading</div>
+            </div>
+            <div class="main-container">
+                <a class="box" href="/pages/juzz.html">
+                    <div class="icon"><img src="images/Icons/quran1.svg" alt=""></div>
+                    <div class="box-text">Juzz Index</div>
+                </a>
+                <a class="box" href="/pages/surahs.html">
+                    <div class="icon"><img src="images/Icons/mosque.svg" alt=""></div>
+                    <div class="box-text">Surah Index</div>
+                </a>
+                <a class="box goto">
+                    <div class="icon"><img src="images/Icons/goto-page.svg" alt=""></div>
+                    <div class="box-text">Goto Page</div>
+                </a>
+                <a class="box">
+                    <div class="icon"><img src="images/Icons/bookmark.svg" alt=""></div>
+                    <div class="box-text">Bookmark</div>
+                </a>
+            </div>
+            <div class="goto-bg "></div>
+            <div class="goto-box ">
+                <h2>Go To Page</h2>
+                <input type="number" placeholder="Enter Page Number (1-548)" id="goto-input" autofocus>
+                <div class="goto-btns">
+                    <div class="goto-btn btn1" id="closeBtn">CENCEL</div>
+                    <div class="goto-btn btn2" id="gotoBtn">GO TO PAGE</div>
+                </div>
+            </div>
+        </main>
+
+    </div>
+    
+    <script src="scripts/Hijri.js"></script>
+    <script src="scripts/main.js"></script>
+</body>
+
+</html>

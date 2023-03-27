@@ -1,0 +1,1142 @@
+{
+     "1": {
+          "surano": "1",
+          "nameofsurahinen": "Surah Fatiha",
+          "nameofsurahinar": "سُوْرَۃُ الفَاتِحَة",
+          "verses": "7",
+          "rakus": "1",
+          "para": "1",
+          "page": "1",
+          "maqamenazil": "Makkah"
+     },
+     "2": {
+          "surano": "2",
+          "nameofsurahinen": "Surah Bakarakh",
+          "nameofsurahinar": "سُوْرَۃُ البَقَرَة",
+          "verses": "286",
+          "rakus": "40",
+          "para": "1-3",
+          "page": "2",
+          "maqamenazil": "Madina"
+     },
+     "3": {
+          "surano": "3",
+          "nameofsurahinen": "Surah Alay Imran",
+          "nameofsurahinar": "سُوْرَۃ آلِ عِمْرَان",
+          "verses": "200",
+          "rakus": "20",
+          "para": "3-4",
+          "page": "45",
+          "maqamenazil": "Madina"
+     },
+     "4": {
+          "surano": "4",
+          "nameofsurahinen": "Surah Nisa",
+          "nameofsurahinar": "سُوْرَۃُ النِّسَاء",
+          "verses": "176",
+          "rakus": "24",
+          "para": "4-6",
+          "page": "69",
+          "maqamenazil": "Madina"
+     },
+     "5": {
+          "surano": "5",
+          "nameofsurahinen": "Surah Maidah",
+          "nameofsurahinar": "سُوْرَۃُ المَائِدَة",
+          "verses": "120",
+          "rakus": "16",
+          "para": "6-7",
+          "page": "96",
+          "maqamenazil": "Madina"
+     },
+     "6": {
+          "surano": "6",
+          "nameofsurahinen": "Surah Anam",
+          "nameofsurahinar": "سُوْرَۃُ الأَنْعَام",
+          "verses": "165",
+          "rakus": "20",
+          "para": "7-8",
+          "page": "115",
+          "maqamenazil": "Makkah"
+     },
+     "7": {
+          "surano": "7",
+          "nameofsurahinen": "Surah A’araf",
+          "nameofsurahinar": "سُوْرَۃُ الأَعْرَاف",
+          "verses": "206",
+          "rakus": "24",
+          "para": "8-9",
+          "page": "136",
+          "maqamenazil": "Makkah"
+     },
+     "8": {
+          "surano": "8",
+          "nameofsurahinen": "Surah Anfal",
+          "nameofsurahinar": "سُوْرَۃُ الأَنْفَال",
+          "verses": "75",
+          "rakus": "10",
+          "para": "9-1-0",
+          "page": "159",
+          "maqamenazil": "Madina"
+     },
+     "9": {
+          "surano": "9",
+          "nameofsurahinen": "Surah Toba",
+          "nameofsurahinar": "سُوْرَۃُ التَّوْبَة",
+          "verses": "129",
+          "rakus": "16",
+          "para": "10-11",
+          "page": "168",
+          "maqamenazil": "Madina"
+     },
+     "10": {
+          "surano": "10",
+          "nameofsurahinen": "Surah Younas",
+          "nameofsurahinar": "سُوْرَۃ يُونُس",
+          "verses": "109",
+          "rakus": "11",
+          "para": "11",
+          "page": "187",
+          "maqamenazil": "Makkah"
+     },
+     "11": {
+          "surano": "11",
+          "nameofsurahinen": "Surah Hud",
+          "nameofsurahinar": "سُوْرَۃ هُود",
+          "verses": "123",
+          "rakus": "10",
+          "para": "11-12",
+          "page": "199",
+          "maqamenazil": "Makkah"
+     },
+     "12": {
+          "surano": "12",
+          "nameofsurahinen": "Surah Yousaf",
+          "nameofsurahinar": "سُوْرَۃ يُوسُف",
+          "verses": "111",
+          "rakus": "12",
+          "para": "12-13",
+          "page": "212",
+          "maqamenazil": "Makkah"
+     },
+     "13": {
+          "surano": "13",
+          "nameofsurahinen": "Surah Ra’ad",
+          "nameofsurahinar": "سُوْرَۃ الرَّعْد",
+          "verses": "43",
+          "rakus": "6",
+          "para": "13",
+          "page": "224",
+          "maqamenazil": "Madina"
+     },
+     "14": {
+          "surano": "14",
+          "nameofsurahinen": "Surah Ibrahim",
+          "nameofsurahinar": "سُوْرَۃُ إِبْرَاهِيم",
+          "verses": "52",
+          "rakus": "7",
+          "para": "13",
+          "page": "230",
+          "maqamenazil": "Makkah"
+     },
+     "15": {
+          "surano": "15",
+          "nameofsurahinen": "Surah Hijr",
+          "nameofsurahinar": "سُوْرَۃُ الحِجْر",
+          "verses": "99",
+          "rakus": "6",
+          "para": "14",
+          "page": "235",
+          "maqamenazil": "Makkah"
+     },
+     "16": {
+          "surano": "16",
+          "nameofsurahinen": "Surah Nahl",
+          "nameofsurahinar": "سُوْرَۃُ النَّحْل",
+          "verses": "128",
+          "rakus": "16",
+          "para": "14",
+          "page": "240",
+          "maqamenazil": "Makkah"
+     },
+     "17": {
+          "surano": "17",
+          "nameofsurahinen": "Surah Isara'el",
+          "nameofsurahinar": "سُوْرَۃُ الإِسْرَاءیْل",
+          "verses": "111",
+          "rakus": "12",
+          "para": "15",
+          "page": "254",
+          "maqamenazil": "Makkah"
+     },
+     "18": {
+          "surano": "18",
+          "nameofsurahinen": "Surah Kahf",
+          "nameofsurahinar": "سُوْرَۃ الكَهْف",
+          "verses": "110",
+          "rakus": "12",
+          "para": "15-16",
+          "page": "264",
+          "maqamenazil": "Makkah"
+     },
+     "19": {
+          "surano": "19",
+          "nameofsurahinen": "Surah Maryam",
+          "nameofsurahinar": "سُوْرَۃ مَرْيَم",
+          "verses": "98",
+          "rakus": "6",
+          "para": "16",
+          "page": "275",
+          "maqamenazil": "Makkah"
+     },
+     "20": {
+          "surano": "20",
+          "nameofsurahinen": "Surah Taha",
+          "nameofsurahinar": "سُوْرَۃ طٰهٰ",
+          "verses": "135",
+          "rakus": "8",
+          "para": "16",
+          "page": "281",
+          "maqamenazil": "Makkah"
+     },
+     "21": {
+          "surano": "21",
+          "nameofsurahinen": "Surah Anbia",
+          "nameofsurahinar": "سُوْرَۃُ الأَنْبِيَاء",
+          "verses": "112",
+          "rakus": "7",
+          "para": "17",
+          "page": "290",
+          "maqamenazil": "Makkah"
+     },
+     "22": {
+          "surano": "22",
+          "nameofsurahinen": "Surah Hajj",
+          "nameofsurahinar": "سُوْرَۃ الحَجّ",
+          "verses": "78",
+          "rakus": "10",
+          "para": "17",
+          "page": "299",
+          "maqamenazil": "Madina"
+     },
+     "23": {
+          "surano": "23",
+          "nameofsurahinen": "Surah Momineen",
+          "nameofsurahinar": "سُوْرَۃُ المُؤْمِنُون",
+          "verses": "118",
+          "rakus": "6",
+          "para": "18",
+          "page": "308",
+          "maqamenazil": "Makkah"
+     },
+     "24": {
+          "surano": "24",
+          "nameofsurahinen": "Surah Nur",
+          "nameofsurahinar": "سُوْرَۃ النُّور",
+          "verses": "64",
+          "rakus": "9",
+          "para": "18",
+          "page": "315",
+          "maqamenazil": "Madina"
+     },
+     "25": {
+          "surano": "25",
+          "nameofsurahinen": "Surah Furqan",
+          "nameofsurahinar": "سُوْرَۃ الفُرْقَان",
+          "verses": "77",
+          "rakus": "6",
+          "para": "18-19",
+          "page": "324",
+          "maqamenazil": "Makkah"
+     },
+     "26": {
+          "surano": "26",
+          "nameofsurahinen": "Surah Shu’ara",
+          "nameofsurahinar": "سُوْرَۃُ الشُّعَرَاء",
+          "verses": "227",
+          "rakus": "11",
+          "para": "19",
+          "page": "330",
+          "maqamenazil": "Makkah"
+     },
+     "27": {
+          "surano": "27",
+          "nameofsurahinen": "Surah Namal",
+          "nameofsurahinar": "سُوْرَۃُ النَّمْل",
+          "verses": "93",
+          "rakus": "7",
+          "para": "19-20",
+          "page": "339",
+          "maqamenazil": "Makkah"
+     },
+     "28": {
+          "surano": "28",
+          "nameofsurahinen": "Surah Qasas",
+          "nameofsurahinar": "سُوْرَۃُ القَصَص",
+          "verses": "88",
+          "rakus": "9",
+          "para": "20",
+          "page": "347",
+          "maqamenazil": "Makkah"
+     },
+     "29": {
+          "surano": "29",
+          "nameofsurahinen": "Surah Ankabut",
+          "nameofsurahinar": "سُوْرَۃُ العَنْكَبُوت",
+          "verses": "69",
+          "rakus": "7",
+          "para": "20-21",
+          "page": "357",
+          "maqamenazil": "Makkah"
+     },
+     "30": {
+          "surano": "30",
+          "nameofsurahinen": "Surah Room",
+          "nameofsurahinar": "سُوْرَۃ الرُّوم",
+          "verses": "60",
+          "rakus": "6",
+          "para": "21",
+          "page": "364",
+          "maqamenazil": "Makkah"
+     },
+     "31": {
+          "surano": "31",
+          "nameofsurahinen": "Surah Luqman",
+          "nameofsurahinar": "سُوْرَۃ لُقْمَان",
+          "verses": "34",
+          "rakus": "4",
+          "para": "21",
+          "page": "370",
+          "maqamenazil": "Makkah"
+     },
+     "32": {
+          "surano": "32",
+          "nameofsurahinen": "Surah Sajda",
+          "nameofsurahinar": "سُوْرَۃُ السَّجْدَة",
+          "verses": "30",
+          "rakus": "3",
+          "para": "21",
+          "page": "373",
+          "maqamenazil": "Makkah"
+     },
+     "33": {
+          "surano": "33",
+          "nameofsurahinen": "Surah Ahzaab",
+          "nameofsurahinar": "سُوْرَۃُ الأَحْزَاب",
+          "verses": "73",
+          "rakus": "9",
+          "para": "21-22",
+          "page": "376",
+          "maqamenazil": "Madina"
+     },
+     "34": {
+          "surano": "34",
+          "nameofsurahinen": "Surah Saba",
+          "nameofsurahinar": "سُوْرَۃ سَبَأ",
+          "verses": "54",
+          "rakus": "6",
+          "para": "22",
+          "page": "385",
+          "maqamenazil": "Makkah"
+     },
+     "35": {
+          "surano": "35",
+          "nameofsurahinen": "Surah Fatir",
+          "nameofsurahinar": "سُوْرَۃ فَاطِر",
+          "verses": "45",
+          "rakus": "5",
+          "para": "22",
+          "page": "391",
+          "maqamenazil": "Makkah"
+     },
+     "36": {
+          "surano": "36",
+          "nameofsurahinen": "Surah YaSin",
+          "nameofsurahinar": "سُوْرَۃ يٰس",
+          "verses": "83",
+          "rakus": "5",
+          "para": "22-23",
+          "page": "396",
+          "maqamenazil": "Makkah"
+     },
+     "37": {
+          "surano": "37",
+          "nameofsurahinen": "Surah Saaffaat",
+          "nameofsurahinar": "سُوْرَۃُ الصّٰٓفّٰتِ",
+          "verses": "182",
+          "rakus": "5",
+          "para": "23",
+          "page": "401",
+          "maqamenazil": "Makkah"
+     },
+     "38": {
+          "surano": "38",
+          "nameofsurahinen": "Surah Saad",
+          "nameofsurahinar": "سُوْرَۃ صٓ",
+          "verses": "88",
+          "rakus": "5",
+          "para": "23",
+          "page": "408",
+          "maqamenazil": "Makkah"
+     },
+     "39": {
+          "surano": "39",
+          "nameofsurahinen": "Surah Zamar",
+          "nameofsurahinar": "سُوْرَۃُ الزُّمَر",
+          "verses": "75",
+          "rakus": "8",
+          "para": "23-24",
+          "page": "412",
+          "maqamenazil": "Makkah"
+     },
+     "40": {
+          "surano": "40",
+          "nameofsurahinen": "Surah Mu'min",
+          "nameofsurahinar": "سُوْرَۃُ الْمُؤْمِن",
+          "verses": "85",
+          "rakus": "9",
+          "para": "24",
+          "page": "420",
+          "maqamenazil": "Makkah"
+     },
+     "41": {
+          "surano": "41",
+          "nameofsurahinen": "Surah Ha'mem Sajda",
+          "nameofsurahinar": "سُوْرَۃ حٰمٓ السّجْدَۃ",
+          "verses": "54",
+          "rakus": "6",
+          "para": "24-25",
+          "page": "429",
+          "maqamenazil": "Makkah"
+     },
+     "42": {
+          "surano": "42",
+          "nameofsurahinen": "Surah Shurah",
+          "nameofsurahinar": "سُوْرَۃُ الشُّورىٰ",
+          "verses": "53",
+          "rakus": "5",
+          "para": "25",
+          "page": "434",
+          "maqamenazil": "Makkah"
+     },
+     "43": {
+          "surano": "43",
+          "nameofsurahinen": "Surah Zukhraf",
+          "nameofsurahinar": "سُوْرَۃُ الزُّخْرُف",
+          "verses": "89",
+          "rakus": "7",
+          "para": "25",
+          "page": "440",
+          "maqamenazil": "Makkah"
+     },
+     "44": {
+          "surano": "44",
+          "nameofsurahinen": "Surah Dukhan",
+          "nameofsurahinar": "سُوْرَۃ الدُّخَان",
+          "verses": "59",
+          "rakus": "3",
+          "para": "25",
+          "page": "446",
+          "maqamenazil": "Makkah"
+     },
+     "45": {
+          "surano": "45",
+          "nameofsurahinen": "Surah Jasiz",
+          "nameofsurahinar": "سُوْرَۃ الجَاثِيَة",
+          "verses": "37",
+          "rakus": "4",
+          "para": "25",
+          "page": "448",
+          "maqamenazil": "Makkah"
+     },
+     "46": {
+          "surano": "46",
+          "nameofsurahinen": "Surah Ahqaaf",
+          "nameofsurahinar": "سُوْرَۃُ الأَحْقَاف",
+          "verses": "35",
+          "rakus": "4",
+          "para": "26",
+          "page": "452",
+          "maqamenazil": "Makkah"
+     },
+     "47": {
+          "surano": "47",
+          "nameofsurahinen": "Surah Muhammad",
+          "nameofsurahinar": "سُوْرَۃ مُحَمَّد",
+          "verses": "38",
+          "rakus": "4",
+          "para": "26",
+          "page": "456",
+          "maqamenazil": "Madina"
+     },
+     "48": {
+          "surano": "48",
+          "nameofsurahinen": "Surah Fatah",
+          "nameofsurahinar": "سُوْرَۃُ الفَتْح",
+          "verses": "29",
+          "rakus": "4",
+          "para": "26",
+          "page": "460",
+          "maqamenazil": "Madina"
+     },
+     "49": {
+          "surano": "49",
+          "nameofsurahinen": "Surah Hujraat",
+          "nameofsurahinar": "سُوْرَۃُ الحُجُرَات",
+          "verses": "18",
+          "rakus": "2",
+          "para": "26",
+          "page": "463",
+          "maqamenazil": "Madina"
+     },
+     "50": {
+          "surano": "50",
+          "nameofsurahinen": "Surah Qaaf",
+          "nameofsurahinar": "سُوْرَۃ قٓ",
+          "verses": "45",
+          "rakus": "3",
+          "para": "26",
+          "page": "466",
+          "maqamenazil": "Makkah"
+     },
+     "51": {
+          "surano": "51",
+          "nameofsurahinen": "Surah Az Zariat",
+          "nameofsurahinar": "سُوْرَۃُ الذَّارِيَات",
+          "verses": "60",
+          "rakus": "2",
+          "para": "26-27",
+          "page": "468",
+          "maqamenazil": "Makkah"
+     },
+     "52": {
+          "surano": "52",
+          "nameofsurahinen": "Surah Toor",
+          "nameofsurahinar": "سُوْرَۃ الطُّور",
+          "verses": "49",
+          "rakus": "2",
+          "para": "27",
+          "page": "471",
+          "maqamenazil": "Makkah"
+     },
+     "53": {
+          "surano": "53",
+          "nameofsurahinen": "Surah Najm",
+          "nameofsurahinar": "سُوْرَۃُ النَّجْم",
+          "verses": "62",
+          "rakus": "2",
+          "para": "27",
+          "page": "473",
+          "maqamenazil": "Makkah"
+     },
+     "54": {
+          "surano": "54",
+          "nameofsurahinen": "Surah Qamar",
+          "nameofsurahinar": "سُوْرَۃُ القَمَر",
+          "verses": "55",
+          "rakus": "2",
+          "para": "27",
+          "page": "475",
+          "maqamenazil": "Makkah"
+     },
+     "55": {
+          "surano": "55",
+          "nameofsurahinen": "Surah Rehman",
+          "nameofsurahinar": "سُوْرَۃ الرَّحْمَٰن",
+          "verses": "78",
+          "rakus": "3",
+          "para": "27",
+          "page": "478",
+          "maqamenazil": "Makkah"
+     },
+     "56": {
+          "surano": "56",
+          "nameofsurahinen": "Surah Waqia",
+          "nameofsurahinar": "سُوْرَۃُ الوَاقِعَة",
+          "verses": "96",
+          "rakus": "3",
+          "para": "27",
+          "page": "481",
+          "maqamenazil": "Makkah"
+     },
+     "57": {
+          "surano": "57",
+          "nameofsurahinen": "Surah Hadeed",
+          "nameofsurahinar": "سُوْرَۃُ الحَدِيد",
+          "verses": "29",
+          "rakus": "4",
+          "para": "27",
+          "page": "484",
+          "maqamenazil": "Madina"
+     },
+     "58": {
+          "surano": "58",
+          "nameofsurahinen": "Surah Mujadila",
+          "nameofsurahinar": "سُوْرَۃُ المُجَادِلَة",
+          "verses": "22",
+          "rakus": "3",
+          "para": "28",
+          "page": "488",
+          "maqamenazil": "Madina"
+     },
+     "59": {
+          "surano": "59",
+          "nameofsurahinen": "Surah Hashr",
+          "nameofsurahinar": "سُوْرَۃُ الحَشْر",
+          "verses": "24",
+          "rakus": "3",
+          "para": "28",
+          "page": "491",
+          "maqamenazil": "Madina"
+     },
+     "60": {
+          "surano": "60",
+          "nameofsurahinen": "Surah Mumtahana",
+          "nameofsurahinar": "سُوْرَۃُ المُمْتَحَنَة",
+          "verses": "13",
+          "rakus": "2",
+          "para": "28",
+          "page": "495",
+          "maqamenazil": "Madina"
+     },
+     "61": {
+          "surano": "61",
+          "nameofsurahinen": "Surah Saff",
+          "nameofsurahinar": "سُوْرَۃُ الصَّفّ",
+          "verses": "14",
+          "rakus": "1",
+          "para": "28",
+          "page": "497",
+          "maqamenazil": "Madina"
+     },
+     "62": {
+          "surano": "62",
+          "nameofsurahinen": "Surah Jum’a",
+          "nameofsurahinar": "سُوْرَۃُ الجُمُعَة",
+          "verses": "11",
+          "rakus": "1",
+          "para": "28",
+          "page": "499",
+          "maqamenazil": "Madina"
+     },
+     "63": {
+          "surano": "63",
+          "nameofsurahinen": "Surah Munafiqeen",
+          "nameofsurahinar": "سُوْرَۃُ المُنَافِقُون",
+          "verses": "11",
+          "rakus": "1",
+          "para": "28",
+          "page": "500",
+          "maqamenazil": "Madina"
+     },
+     "64": {
+          "surano": "64",
+          "nameofsurahinen": "Surah Taghabun",
+          "nameofsurahinar": "سُوْرَۃُ التَّغَابُن",
+          "verses": "18",
+          "rakus": "2",
+          "para": "28",
+          "page": "502",
+          "maqamenazil": "Madina"
+     },
+     "65": {
+          "surano": "65",
+          "nameofsurahinen": "Surah Talaq",
+          "nameofsurahinar": "سُوْرَۃُ الطَّلَاق",
+          "verses": "12",
+          "rakus": "2",
+          "para": "28",
+          "page": "504",
+          "maqamenazil": "Madina"
+     },
+     "66": {
+          "surano": "66",
+          "nameofsurahinen": "Surah Tehreem",
+          "nameofsurahinar": "سُوْرَۃُ التَّحْرِيم",
+          "verses": "12",
+          "rakus": "2",
+          "para": "28",
+          "page": "506",
+          "maqamenazil": "Madina"
+     },
+     "67": {
+          "surano": "67",
+          "nameofsurahinen": "Surah Mulk",
+          "nameofsurahinar": "سُوْرَۃُ المُلْك",
+          "verses": "30",
+          "rakus": "1",
+          "para": "29",
+          "page": "508",
+          "maqamenazil": "Makkah"
+     },
+     "68": {
+          "surano": "68",
+          "nameofsurahinen": "Surah Qalam",
+          "nameofsurahinar": "سُوْرَۃ القَلَم",
+          "verses": "52",
+          "rakus": "2",
+          "para": "29",
+          "page": "510",
+          "maqamenazil": "Makkah"
+     },
+     "69": {
+          "surano": "69",
+          "nameofsurahinen": "Surah Haaqqa",
+          "nameofsurahinar": "سُوْرَۃ الحَاقَّة",
+          "verses": "52",
+          "rakus": "2",
+          "para": "29",
+          "page": "512",
+          "maqamenazil": "Makkah"
+     },
+     "70": {
+          "surano": "70",
+          "nameofsurahinen": "Surah Ma’arij",
+          "nameofsurahinar": "سُوْرَۃُ المَعَارِج",
+          "verses": "44",
+          "rakus": "1",
+          "para": "29",
+          "page": "514",
+          "maqamenazil": "Makkah"
+     },
+     "71": {
+          "surano": "71",
+          "nameofsurahinen": "Surah Nooh",
+          "nameofsurahinar": "سُوْرَۃ نُوح",
+          "verses": "28",
+          "rakus": "1",
+          "para": "29",
+          "page": "516",
+          "maqamenazil": "Makkah"
+     },
+     "72": {
+          "surano": "72",
+          "nameofsurahinen": "Surah Jinn",
+          "nameofsurahinar": "سُوْرَۃُ الجِنّ",
+          "verses": "28",
+          "rakus": "2",
+          "para": "29",
+          "page": "518",
+          "maqamenazil": "Makkah"
+     },
+     "73": {
+          "surano": "73",
+          "nameofsurahinen": "Surah Muzzammil",
+          "nameofsurahinar": "سُوْرَۃُ المُزَّمِّل",
+          "verses": "20",
+          "rakus": "1",
+          "para": "29",
+          "page": "520",
+          "maqamenazil": "Makkah"
+     },
+     "74": {
+          "surano": "74",
+          "nameofsurahinen": "Surah Muddassir",
+          "nameofsurahinar": "سُوْرَۃُ المُدَّثِّر",
+          "verses": "56",
+          "rakus": "2",
+          "para": "29",
+          "page": "521",
+          "maqamenazil": "Makkah"
+     },
+     "75": {
+          "surano": "75",
+          "nameofsurahinen": "Surah Qiyamah",
+          "nameofsurahinar": "سُوْرَۃُ القِيَامَة",
+          "verses": "40",
+          "rakus": "1",
+          "para": "29",
+          "page": "523",
+          "maqamenazil": "Makkah"
+     },
+     "76": {
+          "surano": "76",
+          "nameofsurahinen": "Surah Dahar",
+          "nameofsurahinar": "سُوْرَۃُ الدَّھْر",
+          "verses": "31",
+          "rakus": "2",
+          "para": "29",
+          "page": "524",
+          "maqamenazil": "Madina"
+     },
+     "77": {
+          "surano": "77",
+          "nameofsurahinen": "Surah Mursalaat",
+          "nameofsurahinar": "سُوْرَۃُ المُرْسَلَات",
+          "verses": "50",
+          "rakus": "1",
+          "para": "29",
+          "page": "526",
+          "maqamenazil": "Makkah"
+     },
+     "78": {
+          "surano": "78",
+          "nameofsurahinen": "Surah Naba",
+          "nameofsurahinar": "سُوْرَۃُ النَّبَأ",
+          "verses": "40",
+          "rakus": "1",
+          "para": "30",
+          "page": "528",
+          "maqamenazil": "Makkah"
+     },
+     "79": {
+          "surano": "79",
+          "nameofsurahinen": "Surah An Naaziat",
+          "nameofsurahinar": "سُوْرَۃُ النَّازِعَات",
+          "verses": "46",
+          "rakus": "1",
+          "para": "30",
+          "page": "529",
+          "maqamenazil": "Makkah"
+     },
+     "80": {
+          "surano": "80",
+          "nameofsurahinen": "Surah Abasa",
+          "nameofsurahinar": "سُوْرَۃ عَبَسَ",
+          "verses": "42",
+          "rakus": "1",
+          "para": "30",
+          "page": "530",
+          "maqamenazil": "Makkah"
+     },
+     "81": {
+          "surano": "81",
+          "nameofsurahinen": "Surah Takweer",
+          "nameofsurahinar": "سُوْرَۃُ التَّكْوِير",
+          "verses": "29",
+          "rakus": "1",
+          "para": "30",
+          "page": "532",
+          "maqamenazil": "Makkah"
+     },
+     "82": {
+          "surano": "82",
+          "nameofsurahinen": "Surah Infitar",
+          "nameofsurahinar": "سُوْرَۃُ الإِنْفِطَار",
+          "verses": "19",
+          "rakus": "1",
+          "para": "30",
+          "page": "532",
+          "maqamenazil": "Makkah"
+     },
+     "83": {
+          "surano": "83",
+          "nameofsurahinen": "Surah Mutaffifeen",
+          "nameofsurahinar": "سُوْرَۃُ المُطَفِّفِين",
+          "verses": "36",
+          "rakus": "1",
+          "para": "30",
+          "page": "533",
+          "maqamenazil": "Makkah"
+     },
+     "84": {
+          "surano": "84",
+          "nameofsurahinen": "Surah Inshiqaaq",
+          "nameofsurahinar": "سُوْرَۃُ الإِنْشِقَاق",
+          "verses": "25",
+          "rakus": "1",
+          "para": "30",
+          "page": "534",
+          "maqamenazil": "Makkah"
+     },
+     "85": {
+          "surano": "85",
+          "nameofsurahinen": "Surah Burooj",
+          "nameofsurahinar": "سُوْرَۃُ البُرُوج",
+          "verses": "22",
+          "rakus": "1",
+          "para": "30",
+          "page": "535",
+          "maqamenazil": "Makkah"
+     },
+     "86": {
+          "surano": "86",
+          "nameofsurahinen": "Surah Tariq",
+          "nameofsurahinar": "سُوْرَۃُ الطَّارِق",
+          "verses": "17",
+          "rakus": "1",
+          "para": "30",
+          "page": "536",
+          "maqamenazil": "Makkah"
+     },
+     "87": {
+          "surano": "87",
+          "nameofsurahinen": "Surah A’ala",
+          "nameofsurahinar": "سُوْرَۃُ الأَعْلَىٰ",
+          "verses": "19",
+          "rakus": "1",
+          "para": "30",
+          "page": "537",
+          "maqamenazil": "Makkah"
+     },
+     "88": {
+          "surano": "88",
+          "nameofsurahinen": "Surah Ghashia",
+          "nameofsurahinar": "سُوْرَۃُ الغَاشِيَة",
+          "verses": "26",
+          "rakus": "1",
+          "para": "30",
+          "page": "537",
+          "maqamenazil": "Makkah"
+     },
+     "89": {
+          "surano": "89",
+          "nameofsurahinen": "Surah Fajr",
+          "nameofsurahinar": "سُوْرَۃُ الفَجْر",
+          "verses": "30",
+          "rakus": "1",
+          "para": "30",
+          "page": "538",
+          "maqamenazil": "Makkah"
+     },
+     "90": {
+          "surano": "90",
+          "nameofsurahinen": "Surah Balad",
+          "nameofsurahinar": "سُوْرَۃُ البَلَد",
+          "verses": "20",
+          "rakus": "1",
+          "para": "30",
+          "page": "539",
+          "maqamenazil": "Makkah"
+     },
+     "91": {
+          "surano": "91",
+          "nameofsurahinen": "Surah Shams",
+          "nameofsurahinar": "سُوْرَۃُ الشَّمْس",
+          "verses": "15",
+          "rakus": "1",
+          "para": "30",
+          "page": "540",
+          "maqamenazil": "Makkah"
+     },
+     "92": {
+          "surano": "92",
+          "nameofsurahinen": "Surah Al Lail",
+          "nameofsurahinar": "سُوْرَۃُ اللَّيْل",
+          "verses": "21",
+          "rakus": "1",
+          "para": "30",
+          "page": "540",
+          "maqamenazil": "Makkah"
+     },
+     "93": {
+          "surano": "93",
+          "nameofsurahinen": "Surah Zuha",
+          "nameofsurahinar": "سُوْرَۃُ الضُّحَىٰ",
+          "verses": "11",
+          "rakus": "1",
+          "para": "30",
+          "page": "541",
+          "maqamenazil": "Makkah"
+     },
+     "94": {
+          "surano": "94",
+          "nameofsurahinen": "Surah Sharh (Inshirah)",
+          "nameofsurahinar": "سُوْرَۃُ الشَّرْح",
+          "verses": "8",
+          "rakus": "1",
+          "para": "30",
+          "page": "541",
+          "maqamenazil": "Makkah"
+     },
+     "95": {
+          "surano": "95",
+          "nameofsurahinen": "Surah Teen",
+          "nameofsurahinar": "سُوْرَۃُ التِّين",
+          "verses": "8",
+          "rakus": "1",
+          "para": "30",
+          "page": "542",
+          "maqamenazil": "Makkah"
+     },
+     "96": {
+          "surano": "96",
+          "nameofsurahinen": "Surah Alaq",
+          "nameofsurahinar": "سُوْرَۃُ العَلَق",
+          "verses": "19",
+          "rakus": "1",
+          "para": "30",
+          "page": "542",
+          "maqamenazil": "Makkah"
+     },
+     "97": {
+          "surano": "97",
+          "nameofsurahinen": "Surah Qadr",
+          "nameofsurahinar": "سُوْرَۃُ القَدْر",
+          "verses": "5",
+          "rakus": "1",
+          "para": "30",
+          "page": "543",
+          "maqamenazil": "Makkah"
+     },
+     "98": {
+          "surano": "98",
+          "nameofsurahinen": "Surah Bayyinah",
+          "nameofsurahinar": "سُوْرَۃُ البَيِّنَة",
+          "verses": "8",
+          "rakus": "1",
+          "para": "30",
+          "page": "543",
+          "maqamenazil": "Madina"
+     },
+     "99": {
+          "surano": "99",
+          "nameofsurahinen": "Surah Zalzalah",
+          "nameofsurahinar": "سُوْرَۃُ الزَّلْزَلَة",
+          "verses": "8",
+          "rakus": "1",
+          "para": "30",
+          "page": "544",
+          "maqamenazil": "Madina"
+     },
+     "100": {
+          "surano": "100",
+          "nameofsurahinen": "Surah Aadiat",
+          "nameofsurahinar": "سُوْرَۃُ العَادِيَات",
+          "verses": "11",
+          "rakus": "1",
+          "para": "30",
+          "page": "544",
+          "maqamenazil": "Makkah"
+     },
+     "101": {
+          "surano": "101",
+          "nameofsurahinen": "Surah Qariah",
+          "nameofsurahinar": "سُوْرَۃُ القَارِعَة",
+          "verses": "11",
+          "rakus": "1",
+          "para": "30",
+          "page": "544",
+          "maqamenazil": "Makkah"
+     },
+     "102": {
+          "surano": "102",
+          "nameofsurahinen": "Surah Takasur",
+          "nameofsurahinar": "سُوْرَۃُ التَّكَاثُر",
+          "verses": "8",
+          "rakus": "1",
+          "para": "30",
+          "page": "545",
+          "maqamenazil": "Makkah"
+     },
+     "103": {
+          "surano": "103",
+          "nameofsurahinen": "Surah Asr",
+          "nameofsurahinar": "سُوْرَۃُ العَصْر",
+          "verses": "3",
+          "rakus": "1",
+          "para": "30",
+          "page": "545",
+          "maqamenazil": "Makkah"
+     },
+     "104": {
+          "surano": "104",
+          "nameofsurahinen": "Surah Humaza",
+          "nameofsurahinar": "سُوْرَۃُ الهُمَزَة",
+          "verses": "9",
+          "rakus": "1",
+          "para": "30",
+          "page": "545",
+          "maqamenazil": "Makkah"
+     },
+     "105": {
+          "surano": "105",
+          "nameofsurahinen": "Surah Feel",
+          "nameofsurahinar": "سُوْرَۃُ الفِيل",
+          "verses": "5",
+          "rakus": "1",
+          "para": "30",
+          "page": "546",
+          "maqamenazil": "Makkah"
+     },
+     "106": {
+          "surano": "106",
+          "nameofsurahinen": "Surah Quraish",
+          "nameofsurahinar": "سُوْرَۃ قُرَيْش",
+          "verses": "4",
+          "rakus": "1",
+          "para": "30",
+          "page": "546",
+          "maqamenazil": "Makkah"
+     },
+     "107": {
+          "surano": "107",
+          "nameofsurahinen": "Surah Maoon",
+          "nameofsurahinar": "سُوْرَۃُ المَاعُون",
+          "verses": "7",
+          "rakus": "1",
+          "para": "30",
+          "page": "546",
+          "maqamenazil": "Makkah"
+     },
+     "108": {
+          "surano": "108",
+          "nameofsurahinen": "Surah Kausar",
+          "nameofsurahinar": "سُوْرَۃُ الكَوْثَر",
+          "verses": "3",
+          "rakus": "1",
+          "para": "30",
+          "page": "546",
+          "maqamenazil": "Makkah"
+     },
+     "109": {
+          "surano": "109",
+          "nameofsurahinen": "Surah Kaafiroon",
+          "nameofsurahinar": "سُوْرَۃُ الكَافِرُون",
+          "verses": "6",
+          "rakus": "1",
+          "para": "30",
+          "page": "547",
+          "maqamenazil": "Makkah"
+     },
+     "110": {
+          "surano": "110",
+          "nameofsurahinen": "Surah Nasr",
+          "nameofsurahinar": "سُوْرَۃُ النَّصْر",
+          "verses": "3",
+          "rakus": "1",
+          "para": "30",
+          "page": "547",
+          "maqamenazil": "Madina"
+     },
+     "111": {
+          "surano": "111",
+          "nameofsurahinen": "Surah Lahab",
+          "nameofsurahinar": "سُوْرَۃُ المَسَد",
+          "verses": "5",
+          "rakus": "1",
+          "para": "30",
+          "page": "547",
+          "maqamenazil": "Makkah"
+     },
+     "112": {
+          "surano": "112",
+          "nameofsurahinen": "Surah Ikhlaas",
+          "nameofsurahinar": "سُوْرَۃُ الإِخْلَاص",
+          "verses": "4",
+          "rakus": "1",
+          "para": "30",
+          "page": "548",
+          "maqamenazil": "Makkah"
+     },
+     "113": {
+          "surano": "113",
+          "nameofsurahinen": "Surah Falaq",
+          "nameofsurahinar": "سُوْرَۃُ الفَلَق",
+          "verses": "5",
+          "rakus": "1",
+          "para": "30",
+          "page": "548",
+          "maqamenazil": "Makkah"
+     },
+     "114": {
+          "surano": "114",
+          "nameofsurahinen": "Surah Naas",
+          "nameofsurahinar": "سُوْرَۃُ النَّاس",
+          "verses": "6",
+          "rakus": "1",
+          "para": "30",
+          "page": "548",
+          "maqamenazil": "Makkah"
+     }
+}

@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+     <meta charset="UTF-8">
+     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+     <link rel="stylesheet" href="../css/quran.css">
+    <link rel="stylesheet" href="../css/responsive.css">
+    <link rel="shortcut icon" href="/favicon.svg" type="image/x-icon">
+    <link rel="manifest" href="/manifest.json">
+
+
+     <title>Quran</title>
+
+</head>
+
+<body>
+     <div class="container">
+          <header class="q-header">
+               <div class="q-head-box1">
+                    <div class="q-back-btn">
+                         <a href="../">
+                              <svg width="15" height="15" viewBox="0 0 1024 1024" xmlns="http://www.w3.org/2000/svg">
+                                   <path fill="white" d="M222.927 580.115l301.354 328.512c24.354 28.708 20.825 71.724-7.883 96.078s-71.724 20.825-96.078-7.883L19.576 559.963a67.846 67.846 0 01-13.784-20.022 68.03 68.03 0 01-5.977-29.488l.001-.063a68.343 68.343 0 017.265-29.134 68.28 68.28 0 011.384-2.6 67.59 67.59 0 0110.102-13.687L429.966 21.113c25.592-27.611 68.721-29.247 96.331-3.656s29.247 68.721 3.656 96.331L224.088 443.784h730.46c37.647 0 68.166 30.519 68.166 68.166s-30.519 68.166-68.166 68.166H222.927z" />
+                              </svg></a>
+                    </div>
+                    <div class="q-page-info">
+                         <h3 id="suraName">Al-Fatihah</h3>
+                         <span> Page <span id="page_num"></span> of <span id="page_count"></span></span>
+                    </div>
+               </div>
+               <div class="q-head-box2">
+                    <img src="../images/Icons/moon.svg" alt="" id="darkmode">
+               </div>
+          </header>
+          <div class="q-main-container-quran">
+
+               <div class="q-container">
+                    <div class="q-pdf-render">
+                         <canvas id="the-canvas"></canvas>
+                    </div>
+               </div>
+               <span id="errormsg">Files could not Load Refresh Please</span>
+               <div class="q-foter">
+                    <button class="q-btn" id="prev"><svg width="17" height="17" viewBox="0 0 1024 1024" xmlns="http://www.w3.org/2000/svg"><path fill="white" d="M222.927 580.115l301.354 328.512c24.354 28.708 20.825 71.724-7.883 96.078s-71.724 20.825-96.078-7.883L19.576 559.963a67.846 67.846 0 01-13.784-20.022 68.03 68.03 0 01-5.977-29.488l.001-.063a68.343 68.343 0 017.265-29.134 68.28 68.28 0 011.384-2.6 67.59 67.59 0 0110.102-13.687L429.966 21.113c25.592-27.611 68.721-29.247 96.331-3.656s29.247 68.721 3.656 96.331L224.088 443.784h730.46c37.647 0 68.166 30.519 68.166 68.166s-30.519 68.166-68.166 68.166H222.927z"/></svg></button>
+                    <button class="q-btn" id="next"><svg width="17" height="17" transform="scale(-1 1)" viewBox="0 0 1024 1024" xmlns="http://www.w3.org/2000/svg"><path  fill="white"  d="M222.927 580.115l301.354 328.512c24.354 28.708 20.825 71.724-7.883 96.078s-71.724 20.825-96.078-7.883L19.576 559.963a67.846 67.846 0 01-13.784-20.022 68.03 68.03 0 01-5.977-29.488l.001-.063a68.343 68.343 0 017.265-29.134 68.28 68.28 0 011.384-2.6 67.59 67.59 0 0110.102-13.687L429.966 21.113c25.592-27.611 68.721-29.247 96.331-3.656s29.247 68.721 3.656 96.331L224.088 443.784h730.46c37.647 0 68.166 30.519 68.166 68.166s-30.519 68.166-68.166 68.166H222.927z"/></svg></button>
+               </div>
+          </div>
+     </div>
+     <script src="https://mozilla.github.io/pdf.js/build/pdf.js"></script>
+     <script src="../scripts/quarn-pdf.js"></script>
+     <script src="../scripts/quran.js"></script>
+</body>
+
+</html>

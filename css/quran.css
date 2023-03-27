@@ -1,0 +1,92 @@
+@import url('https://fonts.googleapis.com/css2?family=Lexend+Deca:wght@200;300;400;500;600;700;800&family=Poppins:wght@300;400;500;600;700;800;900&display=swap');
+@font-face {
+     font-family: 'quran';
+     src: url(../fonts/Quran.woff2) format("woff2");
+     font-style: normal;
+     font-display: swap;
+}
+* {
+    font-family: 'Lexend Deca', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+     background-color: white;
+}
+.container{
+     height: 100vh;
+     display: flex;
+     flex-direction: column;
+     justify-content: center;
+}
+.q-container{
+     padding-top: 20px;
+}
+.q-main-container-quran{
+     background-color: white;
+     height: 100%;
+     display: flex;
+     flex-direction: column;
+     justify-content: center;
+}
+.q-header{
+     background: rgba(0, 0, 0, 0.5);
+     display: flex;
+     justify-content: space-between;
+     align-items: center;
+     padding: 10px 15px;
+     position: absolute;
+     width: 100%;
+     top: 0;
+     transition: top .6s .2s cubic-bezier(0.68, 0.6, 0.32, 1);
+     z-index: 222;
+}
+.q-head-box1{
+     display: flex;
+     justify-content: space-between;
+     align-items: center;
+}
+.q-head-box1 .q-page-info{
+     margin-left: 20px;
+}
+.q-head-box1 .q-page-info h3{
+     color: white;
+     font-weight: 500;
+     font-size: 17px;
+     line-height: 17px;
+}
+.q-head-box1 .q-page-info span{
+     font-size: 13px;
+     color: white;
+     font-weight: 300;
+}
+.q-head-box2 {
+    display: flex;
+}
+
+.q-foter{
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     gap: 20px;
+     
+}
+.q-foter .q-btn{
+     padding: 10px;
+     width: 30px;
+     height: 30px;
+     border-radius: 50%;
+     background: rgba(0, 0, 0, 0.5);
+     /* border: 1px solid rgba(50, 50, 93, 0.25); */
+     border: none;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+}
+#errormsg{
+     font-size: 19px;
+     display: none;
+}

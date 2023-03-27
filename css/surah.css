@@ -1,0 +1,186 @@
+@import url('https://fonts.googleapis.com/css2?family=Lexend+Deca:wght@200;300;400;500;600;700;800&family=Poppins:wght@300;400;500;600;700;800;900&display=swap');
+@font-face {
+     font-family: 'quran';
+     src: url(../fonts/Quran.woff2) format("woff2");
+     font-style: normal;
+     font-display: swap;
+}
+*{
+     user-select: none;
+     margin: 0;
+     padding: 0;
+     box-sizing: border-box;
+     scroll-behavior: smooth;
+}
+body{
+     background-color: white;
+}
+nav{
+     position: fixed;
+     top: 0;
+     width: 100%;
+     background-color: #27be4d;
+     color: white;
+     height: 55px;
+     padding: 0 15px;
+     display: flex;
+     justify-content: space-between;
+     z-index: 5;
+
+}
+nav .back-btn{
+     display: flex;
+     align-items: center;
+     gap: 20px;
+}
+
+nav .back-btn a{
+     display: flex;
+}
+nav .back-btn span{
+     font-family: 'Poppins', sans-serif;
+}
+nav .search-box{
+     display: flex;
+     align-items: center;
+}
+nav .search-box input{
+     padding: 10px 20px;
+     font-size: 18px;
+     font-family: 'Poppins', sans-serif;
+     border: none;
+     background: #27be4d;
+     caret-color: white;
+     color: white;
+     position: absolute;
+     left: 35px;
+     display: none;
+}
+nav .search-box input::placeholder{
+     color: rgba(255, 255, 255, 0.4);
+     font-family: 'Poppins', sans-serif;
+     font-size: 15px;
+}
+nav .search-box input:focus{
+     outline: none;
+}
+.main-container{
+     display: flex;
+     flex-direction: column;
+     padding: 15px;
+     margin-top: 50px;
+     position: relative;
+     z-index: 1;
+    background-color: white;
+
+}
+.surah-box{
+     display: flex;
+     justify-content: space-between;
+     align-items: center;
+     border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+     padding: 7px 0;
+}
+.surah-box .surah-name span{
+     display: block;
+}
+.surah-box .surah-name .name-en{
+     font-family: "Poppins" , sans-serif;
+     font-size: 14px;
+     color: #a88b07;
+}
+.surah-box .surah-name .name-ar{
+     font-family: 'quran' , sans-serif;
+     font-size: 19px;
+}
+.surah-box .surah-info{
+     display: flex;
+     align-items: center;
+     gap: 10px;
+}
+.surah-box .surah-info .info-btn{
+     display: flex;
+}
+
+.surah-box .surah-info .read-btn{
+     font-family: 'Poopins', sans-serif;
+     color: #a88b07;
+     padding: 5px 15px;
+     border: 1px solid rgba(0, 0, 0, 0.2);
+     border-radius: 16px;
+}
+.surah-info-bg.active{  
+     height: 100%;
+     width: 100vw;
+     position: fixed;
+     top: 0;
+     left: 0;
+     background-color: rgba(0, 0, 0, 0.5);
+     z-index: 10; 
+     display: block;   
+}
+.surah-info-bg{
+     display: none;
+}
+.surah-info-box.active{
+     position: fixed;
+     top: 50%;
+     left: 50%;
+     transition: .5s;
+     transform: translate(-50%,-50%);
+     z-index: 15;
+     background-color: white;
+     padding: 20px;
+     padding-top: 20px;
+     width: 85%;
+     border-radius: 23px;
+     display: block;
+
+}
+
+.surah-info-box{
+     display: none;
+}
+.surah-info-box h2{
+     padding-bottom: 20px;
+     font-family: 'Poppins',sans-serif;
+     text-align: center;
+     font-weight: 500;
+     color: #a88b07;
+}
+.about-surah{
+     display: flex;
+     justify-content: space-between;
+
+}
+.about-surah ul{
+     list-style: none;
+     font-family: 'Poppins',sans-serif;
+     width: 100%;
+}
+.about-surah ul:last-of-type li:nth-child(3){
+     font-family: 'quran' , sans-serif;
+     font-size: 16px;
+     line-height: 24px;
+}
+.about-surah ul li {
+     padding: 5px;
+     border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+     display: flex;
+     justify-content: space-between;
+}
+
+.close-btn{
+     padding: 5px 13px;
+     margin: 20px auto 0 auto;
+     border: 1px solid rgba(0, 0, 0, 0.2);
+     border-radius: 23px;
+     text-align: center;
+     font-family: 'Poppins',sans-serif;
+     font-size: 14px;
+     color: #a88b07;
+     width: 30%;
+}
+.close-btn:active{
+     background-color: rgb(247, 247, 247);
+}
