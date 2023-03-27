@@ -89,10 +89,10 @@
      ],
      "id": "/index.html",
      "start_url": "/index.html",
-     "background_color": "#27be4d",
+     "background_color": "#0c8a1d",
      "display": "standalone",
      "scope": "/",
-     "theme_color": "#27be4d",
+     "theme_color": "#0c8a1d",
      "description": "Al Quran App made By Shahbaz Iqbal",
      "shortcuts": [
       {
@@ -115,26 +115,14 @@
         "src": "/images/screenshots/homepage.png",
         "type": "image/png",
         "sizes": "374x374",
-        "form_factor": "narrow"
-      },
-      {
-        "src": "/images/screenshots/quran-lightmode.png",
-        "type": "image/png",
-        "sizes": "374x600",
-        "form_factor": "narrow"
-      },
-      {
-        "src": "/images/screenshots/quran-darkmode1.png",
-        "type": "image/png",
-        "sizes": "375x600",
         "form_factor": "wide"
       },
       {
         "src": "/images/screenshots/juzzpage.png",
         "type": "image/png",
         "sizes": "374x374",
-        "form_factor": "narrow",
-        "label":"how to add "
+        "form_factor": "wide"
+
       }
     ]
      

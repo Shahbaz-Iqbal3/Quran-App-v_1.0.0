@@ -2,6 +2,7 @@ const OFFLINE_VERSION = 1;
 const cacheName = "offline";
 // Customize this with a different URL if needed.
 const appShell = [
+  "/",
   "/index.html",
   "/surah.json",
   "/juzz.json",
