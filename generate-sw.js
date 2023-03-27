@@ -25,7 +25,7 @@ const appShell = [
   "/css/style.css",
   "/css/surah.css",
   "/css/utilites.css",
-  "/images/Icons/bcak.svg",
+  "/images/Icons/back.svg",
   "/images/Icons/bookmark.svg",
   "/images/Icons/clock.svg",
   "/images/Icons/close.svg",
