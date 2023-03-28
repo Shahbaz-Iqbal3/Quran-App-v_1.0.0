@@ -14,6 +14,7 @@
 }
 body{
      background-color: white;
+     touch-action: none;
 }
 nav{
      position: fixed;

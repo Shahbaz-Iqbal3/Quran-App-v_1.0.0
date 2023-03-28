@@ -19,6 +19,7 @@
 body {
     background: #f1f1f1;
     height: 100vh;
+    touch-action: none;
 }
 
 nav {

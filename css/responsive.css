@@ -13,7 +13,7 @@ a,
 .juzz-box:focus {
   cursor: pointer;
   user-select: none;
-
+  -webkit-tap-highlight-color: transparent;
 }
 .juzz-box:active,
 .juzz-box:hover,
