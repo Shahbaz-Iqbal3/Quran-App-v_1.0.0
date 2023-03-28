@@ -8,9 +8,10 @@ document.addEventListener("DOMContentLoaded", event => {
   isBrowser = matchMedia("(display-mode: browser)").matches;
   if (!isBrowser) {
      window.moveTo(16, 16);
-     window.resizeTo(500, window.outerHeight);
+     window.resizeTo(500, window.screen.availHeight);
   }
 });
+console.log(window.screen.availHeight);
 
 const menu = document.querySelector(".menu");
 const menuBg = document.querySelector(".menu-bg");
