@@ -1,3 +1,14 @@
+
+const Qurancontainer = document.querySelector('.q-container')
+
+
+window.addEventListener('load', ()=> {
+     document.querySelector('.loader').style.display = 'none'
+     Qurancontainer.style.display = 'block'
+})
+
+
+
 ///// If absolute URL from the remote server is provided, configure the CORS
 //// header on that server.
 var url = '/quran.pdf';
@@ -118,7 +129,7 @@ function onPrevPage() {
      pageNum--;
      queueRenderPage(pageNum);
 }
-document.getElementById('next').addEventListener('click', onPrevPage);
+
 
 /**
  * Displays next page.
@@ -130,7 +141,24 @@ function onNextPage() {
      pageNum++;
      queueRenderPage(pageNum);
 }
-document.getElementById('prev').addEventListener('click', onNextPage);
+
+
+// adding touch gesture
+let pageXend = 0 
+let pageXstart = 0 
+document.querySelector('.q-container').addEventListener('touchstart',e =>{
+  pageXstart =  e.touches[0].pageX
+})
+document.querySelector('.q-container').addEventListener('touchend',e =>{
+  pageXend = e.changedTouches[0].pageX
+  if(pageXstart > pageXend){
+    onPrevPage()
+  }
+   if(pageXstart < pageXend){
+    onNextPage()
+  }
+})
+
 
 /**
  * Asynchronously downloads PDF.

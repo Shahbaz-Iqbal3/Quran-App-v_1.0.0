@@ -1,9 +1,19 @@
 a,
 *.btn,
+*.btn:active,
+*.btn:focus,
 .read-btn,
+.read-btn:active,
+.read-btn:focus,
 .info-btn,
-.juzz-box {
+.info-btn:active,
+.info-btn:focus,
+.juzz-box, 
+.juzz-box:active,
+.juzz-box:focus {
   cursor: pointer;
+  user-select: none;
+
 }
 .juzz-box:active,
 .juzz-box:hover,
@@ -15,7 +25,19 @@ a,
 .resume-btn:hover {
   background-color: rgb(250, 250, 250);
 }
+.btn {
+  background-image: none;
+}
 
+.btn::-moz-focus-inner {
+  border: 0;
+}
+* {
+  user-select: none;
+}
+*::selection{
+  user-select: none;
+}
 @media (min-width: 505px) {
   body {
     max-width: 460px;
