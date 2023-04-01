@@ -29,10 +29,10 @@ document.querySelector(".q-container").addEventListener("mousedown", (e) => {
 document.querySelector(".q-container").addEventListener("mouseup", (e) => {
   pageXend = e.pageX;
   if (pageXstart == pageXend) {
-    if (header.style.top == "-80px") {
+    if (header.style.top == "-100px") {
       header.style.top = "0";
     } else {
-      header.style.top = "-80px";
+      header.style.top = "-100px";
     }
   }
 });

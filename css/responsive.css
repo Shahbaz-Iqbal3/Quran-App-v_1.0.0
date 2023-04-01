@@ -40,19 +40,64 @@ a,
 }
 @media (min-width: 505px) {
   body {
-    max-width: 460px;
+    max-width: 350px;
     height: 100vh;
-    overflow-y: scroll;
     margin: auto;
+    overflow-y: scroll;
     position: relative;
+    z-index: 1;
+    background-attachment: fixed;
   }
+  body::before{
+    content: '';
+    width: 350px;
+    height: 97vh;
+    margin: auto;
+    border: 9px solid rgb(61, 61, 61);
+    border-radius: 50px;
+    position: fixed;
+    top: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    z-index: 200;
+    pointer-events: none;
+  }
+  body::after{
+    content: '';
+    width: 368px;
+    height: 99.66vh;
+    margin: auto;
+    border: 21px solid #f1f1f1;
+    border-radius: 72px;
+    position: fixed;
+    top: -21px;
+    left: 50%;
+    transform: translateX(-50%);
+    z-index: 200;
+    pointer-events: none;
+  }
+  
+  .top{
+    content: '';
+    height: 30px;
+    width: 180px;
+    border-bottom-right-radius: 17px;
+    border-bottom-left-radius: 17px;
+    position: fixed;
+    top: 8px;
+    left: 50%;
+    transform: translateX(-50%);
+    z-index: 200;
+    background-color: rgb(37, 37, 37);
+  }
+  body
   :root {
     background: rgb(206, 206, 206);
   }
 
   nav,
   .menu {
-    max-width: 460px;
+    max-width: 350px;
   }
   .surah-info-box.active {
     width: 400px;

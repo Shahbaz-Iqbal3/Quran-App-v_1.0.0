@@ -13,7 +13,7 @@
     box-sizing: border-box;
 }
 body{
-     background-color: white;
+     background-color: #f1f1f1;
      touch-action: none;
 }
 .container{
@@ -50,11 +50,13 @@ body{
      justify-content: space-between;
      align-items: center;
      padding: 10px 15px;
+     padding-top: 50px;
      position: absolute;
      width: 100%;
+     height: 90px;
      top: 0;
      transition: top .6s .2s cubic-bezier(0.68, 0.6, 0.32, 1);
-     z-index: 222;
+     z-index: 22;
 }
 .q-head-box1{
      display: flex;
