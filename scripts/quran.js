@@ -1,3 +1,13 @@
+document.addEventListener("DOMContentLoaded", event => {
+  // we can move only if we are not in a browser's tab
+  isBrowser = matchMedia("(display-mode: browser)").matches;
+  if (!isBrowser) {
+     window.moveTo(16, 16);
+     window.resizeTo(500, window.screen.availHeight);
+  }
+});
+
+
 const darkmode = document.querySelector(".q-head-box2");
 const darkmodeIcon = document.querySelector("#darkmode");
 const canvasColor = document.querySelector("#the-canvas");
