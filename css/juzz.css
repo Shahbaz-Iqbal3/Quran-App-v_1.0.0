@@ -72,7 +72,7 @@ nav .search-box input:focus{
      display: flex;
      flex-direction: column;
      padding: 15px;
-     padding-top: 0;
+     padding-top: 80px;
      position: relative;
      z-index: 1;
     background-color: white;
