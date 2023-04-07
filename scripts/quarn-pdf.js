@@ -140,7 +140,7 @@ document.querySelector(".q-container").addEventListener("mouseup", (e) => {
 });
 
 // Asynchronously downloads PDF.
-pdfjsLib
+try{pdfjsLib
   .getDocument(url)
   .promise.then(function (pdfDoc_) {
     pdfDoc = pdfDoc_;
@@ -152,4 +152,7 @@ pdfjsLib
   .catch(function (error) {
     console.error("Quran.pdf could not be fetched", error);
     document.getElementById("errormsg").style.display = "block";
-  });
+  });}catch{
+
+    console.error('404 error ocurs')
+  }
